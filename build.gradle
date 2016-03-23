@@ -17,10 +17,10 @@ allprojects {
         jcenter()
         maven {
             credentials {
-                username USERNAME
-                password PASSWORD
+                username 'cojemuclor@thrma.com'
+                password '5G7s#WJ_Bo8z>HO'
             }
-            url "https://api.bitbucket.org/1.0/repositories/benjaminmoss/mvn-deploy-test/raw/releases"
+            url "https://api.bitbucket.org/1.0/repositories/rio-android-player/rio-oly-player/raw/releases"
         }
     }
 }
