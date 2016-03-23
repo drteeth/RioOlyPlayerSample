@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.nbc.rioolyplayer</groupId>
+  <artifactId>rioolyplayer</artifactId>
+  <version>0.1.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160323.154857</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160323154857</lastUpdated>
+  </versioning>
+</metadata>
